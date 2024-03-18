@@ -77,7 +77,7 @@ Before each test, the contract is deployed, and the owner and several addresses 
 
 These test cases cover the core functionalities of the `Whitelist` contract, including deployment, admin management, and whitelist operations. They ensure that the contract behaves as expected under various conditions, such as updating the admin, managing referral cooldowns, and handling direct and referral whitelisting.
 
-## Test cases:
+## How to run:
 
 To run the Hardhat contract and tests for the `Whitelist` contract, you'll need to follow these steps. This guide assumes you have Node.js and npm installed on your system, and you're familiar with using the command line.
 
