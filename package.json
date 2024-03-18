@@ -1,0 +1,22 @@
+{
+  "name": "whitelisting",
+  "version": "1.0.0",
+  "description": "On-chain whitelisting! (both direct and referral)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Whitelisting"
+  ],
+  "author": "Charan",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.1",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
